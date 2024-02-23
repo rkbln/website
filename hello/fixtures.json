@@ -1,0 +1,101 @@
+[
+{
+  "model": "webapp.article",
+  "pk": 1,
+  "fields": {
+    "title": "frefrewf",
+    "author": "regerge",
+    "body": "rergreg",
+    "created_at": "2024-01-05T15:43:50.021Z",
+    "updated_at": "2024-01-05T15:43:50.021Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 2,
+  "fields": {
+    "title": "yrtytr",
+    "author": "ytryrty",
+    "body": "yrtyrty",
+    "created_at": "2024-01-05T16:00:20.846Z",
+    "updated_at": "2024-01-11T06:28:03.551Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 4,
+  "fields": {
+    "title": "Intro to Python",
+    "author": "Gari Olbright",
+    "body": "Lorem ipsum",
+    "created_at": "2024-01-09T06:04:15.345Z",
+    "updated_at": "2024-01-11T06:21:42.744Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 5,
+  "fields": {
+    "title": "Title",
+    "author": "Author",
+    "body": "Body2",
+    "created_at": "2024-01-11T03:56:04.588Z",
+    "updated_at": "2024-01-11T03:56:04.588Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 6,
+  "fields": {
+    "title": "Ttile2",
+    "author": "Author2",
+    "body": "Body2",
+    "created_at": "2024-01-11T04:01:06.449Z",
+    "updated_at": "2024-01-11T04:01:06.449Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 7,
+  "fields": {
+    "title": "Sauqfiluia",
+    "author": "Maher zain",
+    "body": "flsdlfhbldsbhflsdbfbdsl\r\nsd\r\nsdg\r\nadsg\r\ndsg\r\n",
+    "created_at": "2024-01-11T06:13:56.635Z",
+    "updated_at": "2024-01-11T06:13:56.635Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 8,
+  "fields": {
+    "title": "Sauqfiluia",
+    "author": "Maher zain",
+    "body": "flsdlfhbldsbhflsdbfbdsl\r\nsd\r\nsdg\r\nadsg\r\ndsg\r\n",
+    "created_at": "2024-01-11T06:15:14.925Z",
+    "updated_at": "2024-01-11T06:15:14.925Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 9,
+  "fields": {
+    "title": "Sauqfiluia",
+    "author": "fsdfds",
+    "body": "",
+    "created_at": "2024-01-11T06:33:11.203Z",
+    "updated_at": "2024-01-11T06:33:11.203Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 10,
+  "fields": {
+    "title": "пнгпнг",
+    "author": "пнгпнгп",
+    "body": "нгпн",
+    "created_at": "2024-01-11T06:39:29.672Z",
+    "updated_at": "2024-01-11T06:39:29.672Z"
+  }
+}
+]
